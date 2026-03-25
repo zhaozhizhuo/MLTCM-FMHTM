@@ -1,3 +1,13 @@
+# MLTCM-FMHTM
+
+This is our Pytorch implementation for the paper:
+
+> Zhizhuo Zhao,Jiasheng Si, Xueping Peng, Muyun Yang, Bing Xu, Weiyu Zhang. Wenpeng Lu, and Yifei Wang(2026). MLTCM: A Multi-label Syndrome Differentiation Benchmark in Traditional Chinese Medicine. ACM Transactions on Asian and Low-Resource Language Information Processing, 2026.
+
+# Abstract
+
+Syndrome differentiation (SD), the process of identifying syndromes using four types of diagnostic information, is fundamental in Traditional Chinese Medicine (TCM).Despite recent advances, existing resources remain limited: the widely used ZYTCM dataset only provides single-label main syndrome annotations and overlooks accompanying syndromes, which does not reflect real clinical practice.To address this gap, we propose a multi-label SD task and introduce MLTCM, a Chinese dataset annotated with multiple syndromes corresponding to a wide range of pathological features. Through extensive comparisons with existing datasets, we show that both fine-tuned models and large language models (LLMs) struggle due to MLTCM’s complex semantics and pronounced long-tail distribution. To overcome these challenges, we develop a novel framework FMHTM designed for multi-label SD in TCM. Our results highlight the dataset’s difficulty and the importance of robust modeling strategies to capture nuanced TCM patterns.
+
 The repository contains a dataset we constructed for a multi-label syndrome differentiation task in Traditional Chinese Medicine (TCM).
 
 **Due to the sensitivity of medical data, we will make the dataset publicly available as soon as we obtain permission from the hospital.**
