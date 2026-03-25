@@ -59,9 +59,9 @@ Additionally, we have provided three sample data points in `sample_data.txt`. To
 # Acknowledgement
 ```
 @article{zhao2026MLTCM,
-  title={Automated ICD Coding via Contrastive Learning with Back-reference and Synonym Knowledge for Smart Self-diagnosis Applications},
-  author={Zhizhuo Zhao, Wenpeng Lu, Xueping Peng, Lumin Xing, Weiyu Zhang, and Chaoqun Zheng},
-  journal={IEEE Transactions on Consumer Electronics},
-  year={2024}
+  title={MLTCM: A Multi-label Syndrome Differentiation Benchmark in Traditional Chinese Medicine},
+  author={Zhizhuo Zhao,Jiasheng Si, Xueping Peng, Muyun Yang, Bing Xu, Weiyu Zhang. Wenpeng Lu, and Yifei Wang},
+  journal={ACM Transactions on Asian and Low-Resource Language Information Processing},
+  year={2026}
 }
 ```
