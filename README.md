@@ -54,3 +54,14 @@ For a simple deep learning model, first put the corresponding data into `word2ve
 Additionally, we have provided three sample data points in `sample_data.txt`. To further assist future work, we have also placed explanation files for each diagnosis type in the `knowledge.json` file. Each entry in the file details the manifestations of a specific diagnosis type and the required medications.
 
 **Stay tuned!**
+
+
+# Acknowledgement
+```
+@article{zhao2026MLTCM,
+  title={Automated ICD Coding via Contrastive Learning with Back-reference and Synonym Knowledge for Smart Self-diagnosis Applications},
+  author={Zhizhuo Zhao, Wenpeng Lu, Xueping Peng, Lumin Xing, Weiyu Zhang, and Chaoqun Zheng},
+  journal={IEEE Transactions on Consumer Electronics},
+  year={2024}
+}
+```
